@@ -765,8 +765,8 @@ To pass the Google Cloud Digital Leader Certification in 2025, candidates must c
 
 If you found this guide helpful or want to get in touch, feel free to reach out:
 
-- [Email](mailto:ailinndev@proton.me)  
-- [Website](https://ailinnakaganeku.vercel.app/)  
-- [LinkedIn](https://www.linkedin.com/in/ailinn/)  
+✨ [Email](mailto:ailinndev@proton.me)  
+✨ [Website](https://ailinnakaganeku.vercel.app/)  
+✨ [LinkedIn](https://www.linkedin.com/in/ailinn/)  
 
 ---
