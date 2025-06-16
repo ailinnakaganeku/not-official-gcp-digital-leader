@@ -1,7 +1,7 @@
 # Google Cloud Digital Leader Certification in 2025
 
 ## Table of Contents
-* [1. Introduction to the Google Cloud Digital Leader Certification](#1-introduction-to-the-gcp-digital-leader-certification)
+* [1. Introduction](#1-introduction)
     * [1.1. Exam Overview](#11-exam-overview)
     * [1.2. Why Pursue This Certification? Business Value and Career Impact](#12-why-pursue-this-certification-business-value-and-career-impact)
     * [1.3. Key Study Strategies and Recommended Resources](#13-key-study-strategies-and-recommended-resources)
@@ -58,14 +58,14 @@
         * [5.3.2. Site Reliability Engineering (SRE) Concepts: Toil, Incident Management](#532-site-reliability-engineering-sre-concepts-toil-incident-management)
         * [5.3.3. Cloud Financial Governance: Cost Management Tools](#533-cloud-financial-governance-cost-management-tools)
 * [6. Conclusions](#conclusions)
-   
+
+## 1. Introduction
+
 This repository is a comprehensive guide for anyone looking to get the GCP Digital Leader Certification in 2025.    
 ✨ Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
 ✨ Check the Interactive Study Guide powered by Gemini [here](https://not-official-study-guide.vercel.app/)  
 ✨ Check the Official Google Cloud Digital Leader Learning Path [here](https://www.cloudskillsboost.google/paths/9)  
 ✨ Check the Official Google Cloud Digital Leader Certification Page [here](https://cloud.google.com/learn/certification/cloud-digital-leader)
-
-## 1. Introduction to the GCP Digital Leader Certification
 
 ### 1.1. Exam Overview
 
