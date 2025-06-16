@@ -1,6 +1,6 @@
 # Google Cloud Digital Leader Certification in 2025
 
-This repository serves as a comprehensive guide for anyone aiming to achieve the GCP Digital Leader Certification in 2025.  
+This repository is a comprehensive guide for anyone looking to get the GCP Digital Leader Certification in 2025.    
 Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
 Check the Interactive Study Guide powered by Gemini [here](https://not-official-study-guide.vercel.app/)  
 Check the Official Cloud Digital Leader Learning Path [here](https://www.cloudskillsboost.google/paths/9)
@@ -9,21 +9,21 @@ Check the Official Cloud Digital Leader Learning Path [here](https://www.cloudsk
 
 ### 1.1. Exam Overview
 
-The examination follows a multiple-choice and multiple-select question format, designed to assess a broad range of knowledge across Google Cloud's capabilities. Candidates are allotted 1.5 hours to complete the exam. The registration fee is set at $99, though applicable taxes may vary by region, and discounts might be available for individuals in countries with lower purchasing power parity. Upon successful completion, the Cloud Digital Leader certification remains valid for a period of 3 years.
+The exam is a multiple-choice and multiple-select format, designed to test a broad range of knowledge across Google Cloud's capabilities. Candidates are allotted 1.5 hours to complete the exam. The registration fee is set at $99, though applicable taxes may vary by region, and discounts might be available for individuals in countries with lower purchasing power parity. Upon successful completion, the Cloud Digital Leader certification remains valid for a period of 3 years.
 
 ### 1.2. Why Pursue This Certification? Business Value and Career Impact
 
 The Google Cloud Digital Leader certification offers significant value for professionals and their organizations. It serves as a formal demonstration of an individual's grasp of fundamental cloud computing principles and their understanding of how Google Cloud products and services can be leveraged to achieve an organization's strategic objectives.
 
-For individuals, obtaining this certification can markedly boost confidence in their cloud skills. Furthermore, it often acts as a catalyst for career advancement, as evidenced by more than one in four Google Cloud certified individuals assuming greater responsibilities or leadership roles within their workplaces.
+For individuals, getting this certification can really boost their confidence in cloud skills. What's more, it often propels career advancement. In fact, over one in four Google Cloud certified individuals take on greater responsibilities or leadership roles at work.
 
-The certification's focus on non-technical roles, coupled with its emphasis on articulating cloud capabilities and business benefits, addresses a common challenge within organizations: the disconnect between business strategy and IT implementation. By equipping business leaders with a foundational understanding of cloud technology, the certification empowers them to actively participate in cloud adoption discussions and effectively translate technological advancements into tangible business value. This fosters improved communication and alignment between diverse organizational units, which is a critical success factor for any digital transformation initiative. The certification thus becomes a strategic asset, enabling non-technical staff to become informed and influential contributors to their organization's cloud journey.
+Because the certification focuses on non-technical roles and helps people articulate cloud capabilities and business benefits, it addresses a common challenge in organizations: the disconnect between business strategy and IT implementation. By equipping business leaders with a foundational understanding of cloud technology, the certification empowers them to actively participate in cloud adoption discussions and effectively translate technological advancements into tangible business value. This fosters improved communication and alignment between diverse organizational units, which is a critical success factor for any digital transformation initiative. The certification thus becomes a strategic asset, enabling non-technical staff to become informed and influential contributors to their organization's cloud journey.
 
 ### 1.3. Key Study Strategies and Recommended Resources
 
 Effective preparation for the Google Cloud Digital Leader certification requires a structured and strategic approach, leveraging a variety of resources. Candidates should prioritize understanding the top-level features and primary use cases of various Google Cloud products. Beyond mere definitions, it is crucial to comprehend how these products integrate and function within a complete data pipeline, from initial ingestion to final analysis. For the most frequently tested or core services, a deeper dive into their best practices is advisable.
 
-Adopting a "tech lead mindset" during study is highly beneficial. This involves thinking about broader operational concerns such as understanding available support options, optimizing cloud costs, managing compliance, navigating various migration scenarios, and considering how cloud adoption impacts team training, automation, and hybrid network strategies. This perspective helps in applying knowledge to real-world business challenges.
+Adopting a 'tech lead mindset' while studying is super helpful. This involves thinking about broader operational concerns such as understanding available support options, optimizing cloud costs, managing compliance, navigating various migration scenarios, and considering how cloud adoption impacts team training, automation, and hybrid network strategies. This perspective helps in applying knowledge to real-world business challenges.
 
 The official exam guide  stands as the most authoritative resource; candidates should anticipate questions derived from every topic listed within it. A practical study method involves transcribing these topics into a spreadsheet and systematically researching each one using the official Google Cloud Documentation. The provided sample questions  offer an accurate preview of the exam's question types and should be utilized for practice, with careful attention paid to the detailed feedback and explanations provided.
 
