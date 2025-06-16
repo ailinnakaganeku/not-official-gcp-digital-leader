@@ -60,6 +60,15 @@
 * [6. Conclusions](#conclusions)
 
 ## 1. Introduction
+## 📚 Resources Overview
+
+| Resource Description | Link |
+|----------------------|------|
+| ✅ Practice Tests | [Check here](https://not-official-gcp-leader.vercel.app/) |
+| ✅ Interactive Study Guide powered by Gemini | [Check here](https://not-official-study-guide.vercel.app/) |
+| 🎓 Google Cloud Digital Leader Course by freeCodeCamp | [Watch on YouTube](https://youtu.be/cbcd6-m8sHg?si=VGPyo8vspoIsZsXt) |
+| 📘 Official Google Cloud Digital Leader Learning Path | [View here](https://www.cloudskillsboost.google/paths/9) |
+| 🏅 Official Certification Page | [View here](https://cloud.google.com/learn/certification/cloud-digital-leader) |
 
 This repository is a comprehensive guide for anyone looking to get the GCP Digital Leader Certification in 2025.    
 ✨ Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
