@@ -1,5 +1,23 @@
 # Google Cloud Digital Leader Certification in 2025
 
+## Table of Contents
+* [1. Introduction to the GCP Digital Leader Certification](#1-introduction-to-the-gcp-digital-leader-certification)
+    * [1.1. Exam Overview](#11-exam-overview)
+    * [1.2. Why Pursue This Certification? Business Value and Career Impact](#12-why-pursue-this-certification-business-value-and-career-impact)
+    * [1.3. Key Study Strategies and Recommended Resources](#13-key-study-strategies-and-recommended-resources)
+* [2. Digital Transformation with Google Cloud](#2-digital-transformation-with-google-cloud)
+    * [2.1. Understanding Cloud Technology and Digital Transformation](#21-understanding-cloud-technology-and-digital-transformation)
+        * [2.1.1. Core Concepts: Cloud, Digital Transformation, Cloud-Native, Open Source, Open Standards](#211-core-concepts-cloud-digital-transformation-cloud-native-open-source-open-standards)
+        * [2.1.2. Cloud vs. Traditional On-Premises IT: Benefits and Trade-offs](#212-cloud-vs-traditional-on-premises-it-benefits-and-trade-offs)
+        * [2.1.3. Google Cloud's Business Transformation Pillars: Intelligence, Freedom, Collaboration, Trust, Sustainability](#213-google-clouds-business-transformation-pillars-intelligence-freedom-collaboration-trust-sustainability)
+        * [2.1.4. Risks of Not Adopting New Technology](#214-risks-of-not-adopting-new-technology)
+        * [2.1.5. Drivers and Challenges of Digital Transformation](#215-drivers-and-challenges-of-digital-transformation)
+    * [2.2. Fundamental Cloud Concepts](#22-fundamental-cloud-concepts)
+        * [2.2.1. Key Characteristics: Scalability, Flexibility, Agility, Reliability, Elasticity, Total Cost of Ownership (TCO)](#221-key-characteristics-scalability-flexibility-agility-reliability-elasticity-total-cost-of-ownership-tco)
+        * [2.2.2. Financial Models: Capital Expenditures (CapEx) vs. Operational Expenditures (OpEx)](#222-financial-models-capital-expenditures-capex-vs-operational-expenditures-opex)
+        * [2.2.3. Cloud Deployment Models: Private, Public, Hybrid, Multicloud (Use Cases and Distinctions)](#223-cloud-deployment-models-private-public-hybrid-multicloud-use-cases-and-distinctions)
+        * [2.2.4. Basic Network Infrastructure Terminology](#224-basic-network-infrastructure-terminology)
+   
 This repository is a comprehensive guide for anyone looking to get the GCP Digital Leader Certification in 2025.    
 ✨ Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
 ✨ Check the Interactive Study Guide powered by Gemini [here](https://not-official-study-guide.vercel.app/)  
