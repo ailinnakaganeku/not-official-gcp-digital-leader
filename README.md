@@ -1,10 +1,6 @@
 # Google Cloud Digital Leader Certification in 2025
 
 ## Table of Contents
-# Google Cloud Digital Leader Certification in 2025
-
-## Table of Contents
-## Table of Contents
 * [1. Introduction to the Google Cloud Digital Leader Certification](#1-introduction-to-the-gcp-digital-leader-certification)
     * [1.1. Exam Overview](#11-exam-overview)
     * [1.2. Why Pursue This Certification? Business Value and Career Impact](#12-why-pursue-this-certification-business-value-and-career-impact)
