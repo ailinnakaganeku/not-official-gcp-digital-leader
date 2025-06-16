@@ -253,7 +253,7 @@ The existence of these distinct data concepts highlights that there is no univer
 
 #### 3.1.3. The Data Value Chain and Data Governance
 
-The **Data Value Chain**, also referred to as the data lifecycle, describes the sequential stages data undergoes from its initial creation to the point where it drives actionable insights or decisions.[1, 1, 1] These stages typically include: Ingest (data collection), Store, Process & Transform, Analyze, and Visualize (leading to Activation).
+The **Data Value Chain**, also referred to as the data lifecycle, describes the sequential stages data undergoes from its initial creation to the point where it drives actionable insights or decisions. These stages typically include: Ingest (data collection), Store, Process & Transform, Analyze, and Visualize (leading to Activation).
 
 **Data Governance** is an indispensable component for a successful data journey. It encompasses the comprehensive management of data to ensure its accuracy, consistency, and trustworthiness, while also ensuring it is handled securely.
 
