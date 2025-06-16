@@ -1,10 +1,10 @@
 # Google Cloud Digital Leader Certification in 2025
 
 This repository is a comprehensive guide for anyone looking to get the GCP Digital Leader Certification in 2025.    
-Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
-Check the Interactive Study Guide powered by Gemini [here](https://not-official-study-guide.vercel.app/)  
-Check the Official Google Cloud Digital Leader Learning Path [here](https://www.cloudskillsboost.google/paths/9)  
-Check the Official Google Cloud Digital Leader Certification Page [here](https://cloud.google.com/learn/certification/cloud-digital-leader)
+✨ Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
+✨ Check the Interactive Study Guide powered by Gemini [here](https://not-official-study-guide.vercel.app/)  
+✨ Check the Official Google Cloud Digital Leader Learning Path [here](https://www.cloudskillsboost.google/paths/9)  
+✨ Check the Official Google Cloud Digital Leader Certification Page [here](https://cloud.google.com/learn/certification/cloud-digital-leader)
 
 ## 1. Introduction to the GCP Digital Leader Certification
 
