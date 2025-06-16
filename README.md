@@ -64,7 +64,7 @@
 This repository is a comprehensive guide for anyone looking to get the GCP Digital Leader Certification in 2025.    
 ✨ Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
 ✨ Check the Interactive Study Guide powered by Gemini [here](https://not-official-study-guide.vercel.app/)  
-✨ Check the Google Cloud Digital Leader Certification Course by freeCodeCamp [here](https://youtu.be/cbcd6-m8sHg?si=VGPyo8vspoIsZsXt)
+✨ Check the Google Cloud Digital Leader Certification Course by freeCodeCamp [here](https://youtu.be/cbcd6-m8sHg?si=VGPyo8vspoIsZsXt)  
 ✨ Check the Official Google Cloud Digital Leader Learning Path [here](https://www.cloudskillsboost.google/paths/9)  
 ✨ Check the Official Google Cloud Digital Leader Certification Page [here](https://cloud.google.com/learn/certification/cloud-digital-leader)
 
