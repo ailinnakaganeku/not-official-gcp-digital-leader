@@ -1,6 +1,6 @@
 # Google Cloud Digital Leader Certification in 2025
 
-This report serves as a comprehensive guide for anyone aiming to achieve the GCP Digital Leader Certification in 2025.
+This report serves as a comprehensive guide for anyone aiming to achieve the GCP Digital Leader Certification in 2025.  
 Check some Practice Tests [here](https://not-official-gcp-leader.vercel.app/)   
 Check the Interactive Study Guide powered by Gemini [here](https://not-official-study-guide.vercel.app/)
 
